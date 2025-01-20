@@ -3,6 +3,11 @@
 This repository maintains a [backup](https://blog.postman.com/backup-and-sync-your-postman-collections-on-github/) of PayPal Postman Collections published on [postman.com/paypal](https://postman.com/paypal). 
 
 * We recommend to follow the `Getting Started` guide from above link to fork the collection(s) [![Run in Postman](https://run.pstmn.io/button.svg)](https://god.gw.postman.com/run-collection/19024122-92a85d0e-51e7-47da-9f83-c45dcb1cdf24?action=collection%2Ffork&collection-url=entityId%3D19024122-92a85d0e-51e7-47da-9f83-c45dcb1cdf24%26entityType%3Dcollection%26workspaceId%3D345300e6-346e-42e0-aed1-53717919aef0)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fpostman-collections.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fpostman-collections?ref=badge_shield)
 
 * Alternatively, you may import these collection (`.json` files) directly into postman. Although, this option is not recommended as your copy of collection will be out of sync and not receive updates.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fpostman-collections.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fpostman-collections?ref=badge_large)
